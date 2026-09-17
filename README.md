@@ -1,2 +1,2 @@
-# CERTIFICACIONES-DE-ABRAHAM-QUIROZ
+# PROYECTOS-QUE HAGO A PARTE DEL SENA-Y-CERTIFICACIONES DE CURSOS-DE-ABRAHAM-QUIROZ
 Aquí encontrarás una recopilación de las certificaciones y cursos que he realizado, relacionados principalmente con el desarrollo de software y la tecnología que hice a parte del sena.
